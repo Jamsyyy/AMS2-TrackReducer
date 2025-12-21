@@ -13,6 +13,9 @@ The zipfiles contain empty files with the same naming format so steam doesn't re
 I didn't delete all the files related to the track, only the main one and most of the tracks i did replace the SNO, WIN, AUT, SPR, and SUM Prefixes on the bff files
 
 ## Normal Track Reducer
+FROM : ![70ce2f4e-4650-414b-a424-56a11e50e2ee](https://github.com/user-attachments/assets/c6ecb544-34c2-4db0-9433-6a34a3e1455e)
+TO : ![05355858-0c6b-4e09-b638-9d89a13c4c11](https://github.com/user-attachments/assets/f34e7fb0-b365-45ae-90a6-a29cbc715327)
+
 Deletes:
 Ascurra Dirt
 Bathurst Historic 1983
@@ -46,6 +49,11 @@ Spa Historic 1970
 
 ## Special Track Reducer
 I made this for my friends who thought the game is too big
+
+FROM: ![70ce2f4e-4650-414b-a424-56a11e50e2ee](https://github.com/user-attachments/assets/c6ecb544-34c2-4db0-9433-6a34a3e1455e)
+TO: ![59d8ec24-157e-458a-8332-cb3807364325](https://github.com/user-attachments/assets/19c9ccb1-12d8-4d4b-9227-36100a048805)
+
+
 Deletes:
 
 Ascurra Dirt
