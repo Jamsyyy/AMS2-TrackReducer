@@ -2,12 +2,15 @@
 ## This is for the game "Automobilista 2" Released by Reiza Studios
 THIS IS NOT TO SAY THESE TRACKS ARE NOT IMPORTANT, IT'S JUST BECAUSE SOME PEOPLE ENJOY ONLY SOME MODERN TRACK LAYOUTS AND THINK THESE HISTORICAL TRACKS ARE NOT THAT IMPORTANT ENOUGH TO SACRIFICE THEIR STORAGE SPACES
 
+# DISCLAIMER
+DO APPLY THE FILES IN THE ZIPFILE AFTER EVERY STEAM UPDATES
+
 ### IT WORKS ONLINE
 it will only crash if the host of the mp lobby decided to play the tracks which you deleted.
 
 # How does it work?
 Download the zip files -> unpack/uncompress it -> go to your Automobilista 2 root folder -> Pakfiles -> TRACKS -> and copy paste the files from the zipfiles to the TRACKS folder in your Automobilista 2 Folder
-The zipfiles contain empty files with the same naming format so steam doesn't reinstall those files back (hopefully it doesn't i haven't tested it yet)
+The zipfiles contain empty files with the same naming format
 
 # THINGS TO Consider
 I didn't delete all the files related to the track, only the main one and most of the tracks i did replace the SNO, WIN, AUT, SPR, and SUM Prefixes on the bff files
